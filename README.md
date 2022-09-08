@@ -1,4 +1,4 @@
-# Lab-Biomecanica-E4-B309
+# Laboratorio de Biomecánica-E4-B309
 Integrantes:  
 Luis Lauro García Hernández  
 Omar Alejandro Gutierrez Carrizales   
