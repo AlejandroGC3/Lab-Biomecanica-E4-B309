@@ -1,5 +1,4 @@
-# Prácticas de laboratiorio
-Integrantes:  
+# Integrantes
 Luis Lauro García Hernández  
 Omar Alejandro Gutierrez Carrizales   
 Víctor Cristopher Santiago Martínez   
